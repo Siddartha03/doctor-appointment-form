@@ -1,0 +1,47 @@
+.container {
+    padding: 20px;
+}
+.inner-container {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+}
+.header {
+    color: #1976d2;
+    text-decoration: underline;
+}
+.autocomplete {
+    margin-top: 20px;
+}
+.MuiTextField-root {
+    /* width: 360px; */
+}
+.right-container {
+    margin-left: 8%;
+}
+.title {
+    width: 300px;
+}
+.text {
+    color: #76777a;
+    font-weight: 500;
+}
+.mb-10 {
+    margin-top: 10px;
+}
+.d-flex {
+    display: flex;
+    justify-content: space-between;
+}
+.pid {
+    margin-right: 124px;
+}
+.date-time {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.time-picker {
+    margin-left: 20px;
+}
